@@ -1,5 +1,7 @@
 # kspm
 Kiss Strip Poker Maker
+a step by step tool to realize your own strip poker game!
+
 what you need: 
 
 - windows => 10 or debian => 10, a good text editor such as geany https://www.geany.org/ and of course Kiss Strip Poker Maker archive.
@@ -49,8 +51,7 @@ what you need:
 14- if you want to distribute it simply create a zip file with all the game folder, if you want to monetize, have care to remove source codes (.bas , .py), ksge-utils binary and of course key.cpt. if you want to monetazie don't forget to set C6 varibale (number of demo stages)
 
 
-
 --------------------------------------------------------------
 how monetization works?
 end user can use the automatic integrated bitcoin payment (beta) or contact directly the game maker using mail for manual procedure.
-you can also use ksge-utils option 41- activation file generation 4 no hw limits to send the key.cpy file to the user.  
+you can also use ksge-utils option 41- activation file generation 4 no hw limits to send the key.cpt file to the user.  
