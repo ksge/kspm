@@ -2,6 +2,8 @@
 Kiss Strip Poker Maker
 a step by step tool to realize your own strip poker game!
 
+this project is discontinued and included into kiss strip poker https://github.com/ksge/ksp
+
 what you need: 
 
 - windows => 10 or debian => 10, a good text editor such as geany https://www.geany.org/ and of course Kiss Strip Poker Maker archive.
